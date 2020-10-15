@@ -1,0 +1,1 @@
+El metodo "atacar()" deberia ser virtual porque no se puede definir un metodo abstracto en una clase concreta como lo es la clase "Personaje"
